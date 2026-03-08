@@ -30,6 +30,7 @@ I'm a passionate developer focused on **AI in enterprise software delivery** and
 - Personal AI Applications
 
 ## 📦 Featured Projects
+- **[reflexloop](https://github.com/nayyarsan/reflexloop)** - Self-refining AI agents for software development. Critique every session, accumulate evidence, and automatically improve their own system prompts. Works with Claude Code & GitHub Copilot.
 
 - **[business-requirements-agent](https://github.com/nayyarsan/business-requirements-agent)** - VS Code extension for generating Business Requirements Documents using GitHub Copilot SDK and custom agent skills
 - **[TeamsRecordingSubtitleGenerator](https://github.com/nayyarsan/TeamsRecordingSubtitleGenerator)** - Generate speaker-labeled subtitles for Microsoft Teams recordings using Webex AI and Hugging Face models
